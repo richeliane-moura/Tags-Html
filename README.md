@@ -18,10 +18,10 @@ Ao passar o mouse sobre cada item da lista, você verá qual tag HTML deve ser u
 
 ## 🖥️ Visualização
 
-👉 [Clique aqui para visualizar](https://richeliane-moura.github.io/richeliane-moura/) 
+👉 [Clique aqui para visualizar](https://richeliane-moura.github.io/Tags-Html/
 
 ## 📁 Como usar este projeto
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/richeliane-moura/richeliane-moura.git
+   git clone https://github.com/richeliane-moura/Tags-Html.git
